@@ -1,0 +1,1 @@
+# ocr-azure-openai-project
